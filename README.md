@@ -1,4 +1,4 @@
-++ Expression Evaluator
+c++ Expression Evaluator
 
 C++ application that evaluates mathematical expressions using recursive parsing.
 
